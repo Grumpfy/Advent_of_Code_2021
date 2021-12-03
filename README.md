@@ -6,3 +6,6 @@
 ### Day 2: Dive!
 * part1: https://godbolt.org/z/nx7nPnjbP
 * part2: https://godbolt.org/z/hMTeEzMMd
+### Day 3: Binary Diagnostic
+* part1: https://godbolt.org/z/xvhK9W443
+* part2: https://godbolt.org/z/1W7zcbWeo
