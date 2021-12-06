@@ -12,5 +12,8 @@
 ### Day 4: Giant Squid
 * part 1: https://godbolt.org/z/s5W3TPMoe
 * part 2: https://godbolt.org/z/qqfoh5c5G
+### Day 5: Hydrothermal Venture
+* part 1: https://godbolt.org/z/KsdMhcoaG
+* part 2: https://godbolt.org/z/YqEGedP3n
 ### Day 6: Lanternfish
 * part 1&2: https://godbolt.org/z/eKPx6jsE6
