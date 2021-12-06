@@ -9,3 +9,6 @@
 ### Day 3: Binary Diagnostic
 * part1: https://godbolt.org/z/xvhK9W443, https://godbolt.org/z/65f5vbPfY
 * part2: https://godbolt.org/z/1W7zcbWeo
+### Day 4: Giant Squid
+* part 1: https://godbolt.org/z/s5W3TPMoe
+* part 2: https://godbolt.org/z/qqfoh5c5G
