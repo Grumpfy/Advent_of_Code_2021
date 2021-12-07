@@ -17,3 +17,7 @@
 * part 2: https://godbolt.org/z/YqEGedP3n
 ### Day 6: Lanternfish
 * part 1&2: https://godbolt.org/z/eKPx6jsE6
+### Day 7: The Treachery of Whales
+* part 1: https://godbolt.org/z/PY6E933qK
+* part 2: https://godbolt.org/z/PvYMqbMGE
+
