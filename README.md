@@ -20,4 +20,6 @@
 ### Day 7: The Treachery of Whales
 * part 1: https://godbolt.org/z/PY6E933qK
 * part 2: https://godbolt.org/z/PvYMqbMGE
-
+### Day 8: Seven Segment Search
+* part 1: https://godbolt.org/z/93arq7bf4
+* part 2: https://godbolt.org/z/vccMjPddc
