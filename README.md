@@ -23,3 +23,6 @@
 ### Day 8: Seven Segment Search
 * part 1: https://godbolt.org/z/93arq7bf4
 * part 2: https://godbolt.org/z/vccMjPddc
+### Day 9: Smoke Basin
+* part 1: https://godbolt.org/z/11TsMMaYn
+* part 2: https://godbolt.org/z/YM3n6v81G
