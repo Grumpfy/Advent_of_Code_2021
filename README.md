@@ -26,3 +26,6 @@
 ### Day 9: Smoke Basin
 * part 1: https://godbolt.org/z/11TsMMaYn
 * part 2: https://godbolt.org/z/YM3n6v81G
+### Day 11: Dumbo Octopus
+* part 1: https://godbolt.org/z/oPGej6f6c
+* part 2: https://godbolt.org/z/T3qPKcTb6
