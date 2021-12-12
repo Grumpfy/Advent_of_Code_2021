@@ -31,4 +31,4 @@
 * part 2: https://godbolt.org/z/T3qPKcTb6
 ### Day 12: Passage Pathing
 * part 1: https://godbolt.org/z/9c89Tvo46
-* part 2: https://godbolt.org/z/E8PYPe9vh
+* part 2: https://godbolt.org/z/E8PYPe9vh, https://godbolt.org/z/eo9r664d6
