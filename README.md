@@ -29,3 +29,6 @@
 ### Day 11: Dumbo Octopus
 * part 1: https://godbolt.org/z/oPGej6f6c
 * part 2: https://godbolt.org/z/T3qPKcTb6
+### Day 12: Passage Pathing
+* part 1: https://godbolt.org/z/9c89Tvo46
+* part 2: https://godbolt.org/z/E8PYPe9vh
