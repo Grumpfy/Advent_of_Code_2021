@@ -35,3 +35,6 @@
 ### Day 13: Transparent Origami
 * part 1: https://godbolt.org/z/4qEddzWG5
 * part 2: https://godbolt.org/z/3r9TG6Ka5
+### Day 14: Extended Polymerization
+* part 1: https://godbolt.org/z/MEr7rPxzG
+* part 2: https://godbolt.org/z/P9Y8PaKGx
