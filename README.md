@@ -38,3 +38,6 @@
 ### Day 14: Extended Polymerization
 * part 1: https://godbolt.org/z/MEr7rPxzG
 * part 2: https://godbolt.org/z/P9Y8PaKGx
+### Day 15: Chiton
+* part 1: https://godbolt.org/z/Mcox6aYdj
+* part 2: https://godbolt.org/z/doohbKzaY
