@@ -40,4 +40,4 @@
 * part 2: https://godbolt.org/z/P9Y8PaKGx
 ### Day 15: Chiton
 * part 1: https://godbolt.org/z/Mcox6aYdj
-* part 2: https://godbolt.org/z/doohbKzaY
+* part 2: https://godbolt.org/z/doohbKzaY, https://godbolt.org/z/xhYcK81W1
