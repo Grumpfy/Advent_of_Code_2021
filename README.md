@@ -44,3 +44,6 @@
 ### Day 16: Packet Decoder
 * part 1: https://godbolt.org/z/944KrjMEG
 * part 2: https://godbolt.org/z/6KeEo957r
+### Day 17: Trick Shot
+* part 1: vy_max = - y_min -1 , y_max = vy_max * (vy_max+1) / 2 
+* part 2: https://godbolt.org/z/zsP47drEo
