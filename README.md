@@ -41,3 +41,6 @@
 ### Day 15: Chiton
 * part 1: https://godbolt.org/z/Mcox6aYdj
 * part 2: https://godbolt.org/z/doohbKzaY, https://godbolt.org/z/xhYcK81W1
+### Day 16: Packet Decoder
+* part 1: https://godbolt.org/z/944KrjMEG
+* part 2: https://godbolt.org/z/6KeEo957r
