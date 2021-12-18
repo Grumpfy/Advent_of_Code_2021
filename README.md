@@ -47,3 +47,6 @@
 ### Day 17: Trick Shot
 * part 1: vy_max = - y_min -1 , y_max = vy_max * (vy_max+1) / 2 
 * part 2: https://godbolt.org/z/zsP47drEo
+### Day 18: Snailfish
+* part 1: https://godbolt.org/z/KfsfqPe75
+* part 2: https://godbolt.org/z/5d8s57dxr
