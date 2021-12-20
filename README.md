@@ -50,3 +50,6 @@
 ### Day 18: Snailfish
 * part 1: https://godbolt.org/z/KfsfqPe75
 * part 2: https://godbolt.org/z/5d8s57dxr
+### Day 19: Beacon Scanner
+* part 1: https://godbolt.org/z/jo7jsYrob
+* part 2: https://godbolt.org/z/qGhYj3T1b
