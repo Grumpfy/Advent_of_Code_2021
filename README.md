@@ -53,6 +53,8 @@
 ### Day 19: Beacon Scanner
 * part 1: https://godbolt.org/z/jo7jsYrob
 * part 2: https://godbolt.org/z/qGhYj3T1b
+### Day 20: Trench Map
+* part 1&2: forgot to copy/paste the godbolt link. I just used a padded (depending on number of steps) grid.
 ### Day 21: Dirac Dice
 * part 1: https://godbolt.org/z/4fKxfErK5
 * part 2: https://godbolt.org/z/o5aP5n4f7
