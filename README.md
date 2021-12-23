@@ -60,5 +60,6 @@
 * part 2: https://godbolt.org/z/o5aP5n4f7
 ### Day 22: Reactor Reboot
 * part 1: https://godbolt.org/z/fo475xszP
+* part 2: https://godbolt.org/z/183PY5vxb
 ### Day 23: Amphipod
 * part 1: pen and paper ... 
