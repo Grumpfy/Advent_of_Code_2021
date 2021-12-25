@@ -63,3 +63,4 @@
 * part 2: https://godbolt.org/z/183PY5vxb
 ### Day 23: Amphipod
 * part 1: pen and paper ... 
+* part 2: https://godbolt.org/z/Kqvjb5sTr
